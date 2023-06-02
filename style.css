@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: rgb(0, 0, 0);
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+header{
+  width: 100%;
+  height: 500px;
+  display: block;
+  background-image: url("https://video-images.vice.com/articles/5bcdd8ccaba1630006152913/lede/1540218856751-museu_privada1.jpeg?crop=1xw:0.7111111111111111xh;center,center");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  float: left;
+  
+}
+
+header h1{
+    font-size: 100px;
+    text-shadow: 2px 5px rgb(0, 0, 0);
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+}
+ main article{
+     width: 90%;
+     height: auto;
+     display: block;
+     border: 1px solid rgb(255, 255, 255);
+     margin-left: 6%;
+     margin-top: 80px;
+     
+ }
+
+ main article h2{
+  font-size: 55px;
+  text-align: center;
+  margin-bottom: 20px
+ }
+
+
+
+main article h3{
+ font-size: 30px;
+ text-align: center;
+ margin-bottom: 20px;
+}
+ main article img{
+  width: 300px;
+  margin-left: 400px ;
+ }
+
+ main article p{
+  font-size: 20px;
+  text-align: justify;
+  line-height: 28px;  
+  text-align: center;
+ }
+
+ 
+ 
